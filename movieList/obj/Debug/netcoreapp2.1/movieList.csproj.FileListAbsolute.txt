@@ -1,0 +1,11 @@
+/home/master/Documents/bootcamp/2020.01.30 Movie_List/movieList/bin/Debug/netcoreapp2.1/movieList.deps.json
+/home/master/Documents/bootcamp/2020.01.30 Movie_List/movieList/bin/Debug/netcoreapp2.1/movieList.runtimeconfig.json
+/home/master/Documents/bootcamp/2020.01.30 Movie_List/movieList/bin/Debug/netcoreapp2.1/movieList.runtimeconfig.dev.json
+/home/master/Documents/bootcamp/2020.01.30 Movie_List/movieList/bin/Debug/netcoreapp2.1/movieList.dll
+/home/master/Documents/bootcamp/2020.01.30 Movie_List/movieList/bin/Debug/netcoreapp2.1/movieList.pdb
+/home/master/Documents/bootcamp/2020.01.30 Movie_List/movieList/obj/Debug/netcoreapp2.1/movieList.csprojAssemblyReference.cache
+/home/master/Documents/bootcamp/2020.01.30 Movie_List/movieList/obj/Debug/netcoreapp2.1/movieList.csproj.CoreCompileInputs.cache
+/home/master/Documents/bootcamp/2020.01.30 Movie_List/movieList/obj/Debug/netcoreapp2.1/movieList.AssemblyInfoInputs.cache
+/home/master/Documents/bootcamp/2020.01.30 Movie_List/movieList/obj/Debug/netcoreapp2.1/movieList.AssemblyInfo.cs
+/home/master/Documents/bootcamp/2020.01.30 Movie_List/movieList/obj/Debug/netcoreapp2.1/movieList.dll
+/home/master/Documents/bootcamp/2020.01.30 Movie_List/movieList/obj/Debug/netcoreapp2.1/movieList.pdb
