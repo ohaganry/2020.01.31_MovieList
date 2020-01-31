@@ -49,7 +49,7 @@ namespace movieList
 
                 Movie.PrintMoviesByGenre(movies, genreChoice);
 
-                proceed = Methods.ValidateInput(Methods.GetUserInput("Would you like to see another genre?"));
+                proceed = Methods.ValidateInput("Would you like to see another genre?");
             }
 
         }
